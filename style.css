@@ -38,3 +38,8 @@ section{
     font-weight: 700;
     
 }
+.backgroundme1{
+    background-image: url("images/backg1.png");
+    background-repeat:no-repeat;
+    background-position: right;
+}
